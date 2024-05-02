@@ -1,0 +1,3 @@
+interface CameraCapable {
+    void takePicture();
+}
